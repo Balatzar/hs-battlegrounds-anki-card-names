@@ -1,5 +1,4 @@
 require "json"
-require "anki"
 require "net/http"
 require "uri"
 require "optparse"
